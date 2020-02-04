@@ -1,0 +1,21 @@
+//============================================================================
+// Name        : day2_8.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+
+void swap_by_val(int n1,int n2); // call by value
+void swap_by_add(int *n1,int *n2); // call by address
+void swap_by_ref(int &n1,int &n2); // call by reference
+
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

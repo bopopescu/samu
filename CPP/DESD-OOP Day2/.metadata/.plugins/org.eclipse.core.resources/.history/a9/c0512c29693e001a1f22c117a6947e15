@@ -1,0 +1,61 @@
+//============================================================================
+// Name        : day2_10.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Complex
+{
+private:
+	int real;
+	int imag;
+public:
+	Complex()
+	{
+		real=0;
+		imag=0;
+	}
+
+	Complex(int real , int imag)
+		{
+			this->real=real;
+			this->imag=imag;
+		}
+
+	Complex (const Complex &c3)
+	{
+		c3.real=this->real;
+		c3.imag=this->imag;
+	}
+
+
+	Complex sum(const Complex &c2)
+	{
+		Complex temp;
+		temp.real=this->real+c2.real;
+		temp.imag=this->imag+c2.imag;
+		return temp;
+	}
+	void print()
+	{
+		cout<<" \n Real = "<<this->real;
+		cout<<" \n Imag = "<<this->imag;
+
+	}
+	~Complex()
+	{
+		cout<<"\n inside desctructor";
+
+	}
+
+};
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

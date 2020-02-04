@@ -1,0 +1,31 @@
+//============================================================================
+// Name        : day3_9.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+class Point
+{
+private:
+	int x;
+	int y;
+public:
+	void sum(int x,int y);
+};
+
+void Point::sum(int x ,int y)
+{
+	int res=this->x+this->y;
+}
+
+
+
+int main()
+{
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

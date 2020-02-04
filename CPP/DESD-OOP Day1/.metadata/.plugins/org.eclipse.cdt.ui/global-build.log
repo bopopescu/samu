@@ -1,0 +1,843 @@
+08:07:25 **** Build of configuration Debug for project day1_1 ****
+make all 
+Building file: ../src/day1_1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_1.d" -MT"src/day1_1.o" -o "src/day1_1.o" "../src/day1_1.c"
+Finished building: ../src/day1_1.c
+ 
+Building target: day1_1
+Invoking: GCC C Linker
+gcc  -o "day1_1"  ./src/day1_1.o   
+Finished building target: day1_1
+ 
+08:07:35 **** Incremental Build of configuration Debug for project day1_1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:37:38 **** Incremental Build of configuration Debug for project day1_1 ****
+make all 
+Building file: ../src/day1_1.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_1.d" -MT"src/day1_1.o" -o "src/day1_1.o" "../src/day1_1.c"
+Finished building: ../src/day1_1.c
+ 
+Building target: day1_1
+Invoking: GCC C Linker
+gcc  -o "day1_1"  ./src/day1_1.o   
+Finished building target: day1_1
+ 
+08:37:40 **** Incremental Build of configuration Debug for project day1_1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:41:11 **** Build of configuration Debug for project day1_2 ****
+make all 
+Building file: ../src/day1_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_2.d" -MT"src/day1_2.o" -o "src/day1_2.o" "../src/day1_2.cpp"
+Finished building: ../src/day1_2.cpp
+ 
+Building target: day1_2
+Invoking: GCC C++ Linker
+g++  -o "day1_2"  ./src/day1_2.o   
+Finished building target: day1_2
+ 
+08:41:21 **** Incremental Build of configuration Debug for project day1_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:43:42 **** Incremental Build of configuration Debug for project day1_2 ****
+make all 
+Building file: ../src/day1_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_2.d" -MT"src/day1_2.o" -o "src/day1_2.o" "../src/day1_2.cpp"
+Finished building: ../src/day1_2.cpp
+ 
+Building target: day1_2
+Invoking: GCC C++ Linker
+g++  -o "day1_2"  ./src/day1_2.o   
+Finished building target: day1_2
+ 
+08:43:44 **** Incremental Build of configuration Debug for project day1_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:46:58 **** Build of configuration Debug for project day1_3 ****
+make all 
+Building file: ../src/day1_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_3.d" -MT"src/day1_3.o" -o "src/day1_3.o" "../src/day1_3.cpp"
+Finished building: ../src/day1_3.cpp
+ 
+Building target: day1_3
+Invoking: GCC C++ Linker
+g++  -o "day1_3"  ./src/day1_3.o   
+Finished building target: day1_3
+ 
+08:47:16 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+Building file: ../src/day1_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_3.d" -MT"src/day1_3.o" -o "src/day1_3.o" "../src/day1_3.cpp"
+Finished building: ../src/day1_3.cpp
+ 
+Building target: day1_3
+Invoking: GCC C++ Linker
+g++  -o "day1_3"  ./src/day1_3.o   
+Finished building target: day1_3
+ 
+08:52:01 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+Building file: ../src/day1_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_3.d" -MT"src/day1_3.o" -o "src/day1_3.o" "../src/day1_3.cpp"
+Finished building: ../src/day1_3.cpp
+ 
+Building target: day1_3
+Invoking: GCC C++ Linker
+g++  -o "day1_3"  ./src/day1_3.o   
+Finished building target: day1_3
+ 
+08:52:03 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+make: Nothing to be done for 'all'.
+08:59:06 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+Building file: ../src/day1_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_3.d" -MT"src/day1_3.o" -o "src/day1_3.o" "../src/day1_3.cpp"
+Finished building: ../src/day1_3.cpp
+ 
+Building target: day1_3
+Invoking: GCC C++ Linker
+g++  -o "day1_3"  ./src/day1_3.o   
+Finished building target: day1_3
+ 
+08:59:08 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+make: Nothing to be done for 'all'.
+09:05:33 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+Building file: ../src/day1_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_3.d" -MT"src/day1_3.o" -o "src/day1_3.o" "../src/day1_3.cpp"
+Finished building: ../src/day1_3.cpp
+ 
+Building target: day1_3
+Invoking: GCC C++ Linker
+g++  -o "day1_3"  ./src/day1_3.o   
+Finished building target: day1_3
+ 
+09:05:35 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+make: Nothing to be done for 'all'.
+09:09:05 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+Building file: ../src/day1_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_3.d" -MT"src/day1_3.o" -o "src/day1_3.o" "../src/day1_3.cpp"
+Finished building: ../src/day1_3.cpp
+ 
+Building target: day1_3
+Invoking: GCC C++ Linker
+g++  -o "day1_3"  ./src/day1_3.o   
+Finished building target: day1_3
+ 
+09:09:07 **** Incremental Build of configuration Debug for project day1_3 ****
+make all 
+make: Nothing to be done for 'all'.
+09:10:54 **** Build of configuration Debug for project day1_4 ****
+make all 
+Building file: ../src/day1_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_4.d" -MT"src/day1_4.o" -o "src/day1_4.o" "../src/day1_4.cpp"
+Finished building: ../src/day1_4.cpp
+ 
+Building target: day1_4
+Invoking: GCC C++ Linker
+g++  -o "day1_4"  ./src/day1_4.o   
+Finished building target: day1_4
+ 
+09:11:03 **** Incremental Build of configuration Debug for project day1_4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:18:08 **** Incremental Build of configuration Debug for project day1_4 ****
+make all 
+Building file: ../src/day1_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_4.d" -MT"src/day1_4.o" -o "src/day1_4.o" "../src/day1_4.cpp"
+../src/day1_4.cpp: In function ‘int main()’:
+../src/day1_4.cpp:29:6: error: no matching function for call to ‘max()’
+  max();
+      ^
+../src/day1_4.cpp:17:13: note: candidate: void max(int, int)
+ inline void max(int x,int y)
+             ^~~
+../src/day1_4.cpp:17:13: note:   candidate expects 2 arguments, 0 provided
+In file included from /usr/include/c++/7/bits/char_traits.h:39:0,
+                 from /usr/include/c++/7/ios:40,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day1_4.cpp:9:
+/usr/include/c++/7/bits/stl_algobase.h:265:5: note: candidate: template<class _Tp, class _Compare> constexpr const _Tp& std::max(const _Tp&, const _Tp&, _Compare)
+     max(const _Tp& __a, const _Tp& __b, _Compare __comp)
+     ^~~
+/usr/include/c++/7/bits/stl_algobase.h:265:5: note:   template argument deduction/substitution failed:
+../src/day1_4.cpp:29:6: note:   candidate expects 3 arguments, 0 provided
+  max();
+      ^
+In file included from /usr/include/c++/7/bits/char_traits.h:39:0,
+                 from /usr/include/c++/7/ios:40,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day1_4.cpp:9:
+/usr/include/c++/7/bits/stl_algobase.h:219:5: note: candidate: template<class _Tp> constexpr const _Tp& std::max(const _Tp&, const _Tp&)
+     max(const _Tp& __a, const _Tp& __b)
+     ^~~
+/usr/include/c++/7/bits/stl_algobase.h:219:5: note:   template argument deduction/substitution failed:
+../src/day1_4.cpp:29:6: note:   candidate expects 2 arguments, 0 provided
+  max();
+      ^
+make: *** [src/day1_4.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day1_4.o' failed
+09:18:12 **** Incremental Build of configuration Debug for project day1_4 ****
+make all 
+Building file: ../src/day1_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_4.d" -MT"src/day1_4.o" -o "src/day1_4.o" "../src/day1_4.cpp"
+Finished building: ../src/day1_4.cpp
+ 
+Building target: day1_4
+Invoking: GCC C++ Linker
+g++  -o "day1_4"  ./src/day1_4.o   
+Finished building target: day1_4
+ 
+09:18:14 **** Incremental Build of configuration Debug for project day1_4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:19:06 **** Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:19:13 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:20:35 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:20:37 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:21:22 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:21:24 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:21:31 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+../src/day1_5.cpp: In function ‘void print(int, int, int, int)’:
+../src/day1_5.cpp:19:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+src/subdir.mk:18: recipe for target 'src/day1_5.o' failed
+make: *** [src/day1_5.o] Error 1
+09:21:32 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+../src/day1_5.cpp: In function ‘void print(int, int, int, int)’:
+../src/day1_5.cpp:19:1: error: expected ‘;’ before ‘}’ token
+ }
+ ^
+make: *** [src/day1_5.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day1_5.o' failed
+09:21:39 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:21:41 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:24:09 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:24:11 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:24:23 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:24:24 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:24:38 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+Building file: ../src/day1_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_5.d" -MT"src/day1_5.o" -o "src/day1_5.o" "../src/day1_5.cpp"
+Finished building: ../src/day1_5.cpp
+ 
+Building target: day1_5
+Invoking: GCC C++ Linker
+g++  -o "day1_5"  ./src/day1_5.o   
+Finished building target: day1_5
+ 
+09:24:39 **** Incremental Build of configuration Debug for project day1_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:26:27 **** Build of configuration Debug for project day1_6 ****
+make all 
+Building file: ../src/day1_6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_6.d" -MT"src/day1_6.o" -o "src/day1_6.o" "../src/day1_6.cpp"
+Finished building: ../src/day1_6.cpp
+ 
+Building target: day1_6
+Invoking: GCC C++ Linker
+g++  -o "day1_6"  ./src/day1_6.o   
+Finished building target: day1_6
+ 
+09:26:29 **** Incremental Build of configuration Debug for project day1_6 ****
+make all 
+make: Nothing to be done for 'all'.
+09:26:36 **** Incremental Build of configuration Debug for project day1_6 ****
+make all 
+make: Nothing to be done for 'all'.
+09:31:54 **** Incremental Build of configuration Debug for project day1_6 ****
+make all 
+Building file: ../src/day1_6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_6.d" -MT"src/day1_6.o" -o "src/day1_6.o" "../src/day1_6.cpp"
+Finished building: ../src/day1_6.cpp
+ 
+Building target: day1_6
+Invoking: GCC C++ Linker
+g++  -o "day1_6"  ./src/day1_6.o   
+Finished building target: day1_6
+ 
+09:32:00 **** Incremental Build of configuration Debug for project day1_6 ****
+make all 
+make: Nothing to be done for 'all'.
+09:34:02 **** Incremental Build of configuration Debug for project day1_6 ****
+make all 
+Building file: ../src/day1_6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_6.d" -MT"src/day1_6.o" -o "src/day1_6.o" "../src/day1_6.cpp"
+Finished building: ../src/day1_6.cpp
+ 
+Building target: day1_6
+Invoking: GCC C++ Linker
+g++  -o "day1_6"  ./src/day1_6.o   
+Finished building target: day1_6
+ 
+09:34:04 **** Incremental Build of configuration Debug for project day1_6 ****
+make all 
+make: Nothing to be done for 'all'.
+09:38:08 **** Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:38:14 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:44:09 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+../src/day1_7.cpp: In function ‘int main()’:
+../src/day1_7.cpp:18:27: error: ‘num1’ was not declared in this scope
+  cout<<"Global Variable"<<num1;
+                           ^~~~
+../src/day1_7.cpp:18:27: note: suggested alternative: ‘num’
+  cout<<"Global Variable"<<num1;
+                           ^~~~
+                           num
+src/subdir.mk:18: recipe for target 'src/day1_7.o' failed
+make: *** [src/day1_7.o] Error 1
+09:45:05 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+../src/day1_7.cpp: In function ‘int main()’:
+../src/day1_7.cpp:20:29: error: ‘::num1’ has not been declared
+  cout<<"Global Variable"<<::num1;
+                             ^~~~
+../src/day1_7.cpp:20:29: note: suggested alternative: ‘num’
+  cout<<"Global Variable"<<::num1;
+                             ^~~~
+                             num
+make: *** [src/day1_7.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day1_7.o' failed
+09:45:12 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:45:14 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:48:32 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:48:34 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:52:20 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+../src/day1_7.cpp: In function ‘int main()’:
+../src/day1_7.cpp:31:31: error: expected primary-expression before ‘<<’ token
+  cout<<"Local Variable"<<num<<<<" "<<&num<<endl;
+                               ^~
+src/subdir.mk:18: recipe for target 'src/day1_7.o' failed
+make: *** [src/day1_7.o] Error 1
+09:52:35 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:52:37 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:53:01 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:53:03 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:56:04 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:56:06 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:56:15 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+../src/day1_7.cpp: In function ‘int main()’:
+../src/day1_7.cpp:22:33: error: ‘::num’ has not been declared
+  cout<<"Name space variable"<<::num;
+                                 ^~~
+../src/day1_7.cpp:22:33: note: suggested alternative:
+../src/day1_7.cpp:15:6: note:   ‘na::num’
+  int num=50;
+      ^~~
+make: *** [src/day1_7.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day1_7.o' failed
+09:56:26 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:56:27 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:56:38 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:56:41 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:57:05 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:57:48 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:57:53 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+Building file: ../src/day1_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_7.d" -MT"src/day1_7.o" -o "src/day1_7.o" "../src/day1_7.cpp"
+Finished building: ../src/day1_7.cpp
+ 
+Building target: day1_7
+Invoking: GCC C++ Linker
+g++  -o "day1_7"  ./src/day1_7.o   
+Finished building target: day1_7
+ 
+09:57:55 **** Incremental Build of configuration Debug for project day1_7 ****
+make all 
+make: Nothing to be done for 'all'.
+10:03:29 **** Build of configuration Debug for project day1_8 ****
+make all 
+Building file: ../src/day1_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_8.d" -MT"src/day1_8.o" -o "src/day1_8.o" "../src/day1_8.cpp"
+Finished building: ../src/day1_8.cpp
+ 
+Building target: day1_8
+Invoking: GCC C++ Linker
+g++  -o "day1_8"  ./src/day1_8.o   
+Finished building target: day1_8
+ 
+10:03:37 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+make: Nothing to be done for 'all'.
+10:11:12 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+Building file: ../src/day1_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_8.d" -MT"src/day1_8.o" -o "src/day1_8.o" "../src/day1_8.cpp"
+Finished building: ../src/day1_8.cpp
+ 
+Building target: day1_8
+Invoking: GCC C++ Linker
+g++  -o "day1_8"  ./src/day1_8.o   
+Finished building target: day1_8
+ 
+10:11:14 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+make: Nothing to be done for 'all'.
+10:11:26 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+Building file: ../src/day1_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_8.d" -MT"src/day1_8.o" -o "src/day1_8.o" "../src/day1_8.cpp"
+Finished building: ../src/day1_8.cpp
+ 
+Building target: day1_8
+Invoking: GCC C++ Linker
+g++  -o "day1_8"  ./src/day1_8.o   
+Finished building target: day1_8
+ 
+10:11:28 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+make: Nothing to be done for 'all'.
+10:13:32 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+Building file: ../src/day1_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_8.d" -MT"src/day1_8.o" -o "src/day1_8.o" "../src/day1_8.cpp"
+Finished building: ../src/day1_8.cpp
+ 
+Building target: day1_8
+Invoking: GCC C++ Linker
+g++  -o "day1_8"  ./src/day1_8.o   
+Finished building target: day1_8
+ 
+10:13:33 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+make: Nothing to be done for 'all'.
+10:15:18 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+Building file: ../src/day1_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_8.d" -MT"src/day1_8.o" -o "src/day1_8.o" "../src/day1_8.cpp"
+Finished building: ../src/day1_8.cpp
+ 
+Building target: day1_8
+Invoking: GCC C++ Linker
+g++  -o "day1_8"  ./src/day1_8.o   
+Finished building target: day1_8
+ 
+10:19:14 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+Building file: ../src/day1_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_8.d" -MT"src/day1_8.o" -o "src/day1_8.o" "../src/day1_8.cpp"
+Finished building: ../src/day1_8.cpp
+ 
+Building target: day1_8
+Invoking: GCC C++ Linker
+g++  -o "day1_8"  ./src/day1_8.o   
+Finished building target: day1_8
+ 
+10:19:17 **** Incremental Build of configuration Debug for project day1_8 ****
+make all 
+make: Nothing to be done for 'all'.
+10:25:17 **** Build of configuration Debug for project day1_9 ****
+make all 
+Building file: ../src/day1_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_9.d" -MT"src/day1_9.o" -o "src/day1_9.o" "../src/day1_9.cpp"
+Finished building: ../src/day1_9.cpp
+ 
+Building target: day1_9
+Invoking: GCC C++ Linker
+g++  -o "day1_9"  ./src/day1_9.o   
+Finished building target: day1_9
+ 
+10:25:26 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+make: Nothing to be done for 'all'.
+10:26:17 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+Building file: ../src/day1_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_9.d" -MT"src/day1_9.o" -o "src/day1_9.o" "../src/day1_9.cpp"
+Finished building: ../src/day1_9.cpp
+ 
+Building target: day1_9
+Invoking: GCC C++ Linker
+g++  -o "day1_9"  ./src/day1_9.o   
+Finished building target: day1_9
+ 
+10:26:19 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+make: Nothing to be done for 'all'.
+10:26:25 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+Building file: ../src/day1_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_9.d" -MT"src/day1_9.o" -o "src/day1_9.o" "../src/day1_9.cpp"
+Finished building: ../src/day1_9.cpp
+ 
+Building target: day1_9
+Invoking: GCC C++ Linker
+g++  -o "day1_9"  ./src/day1_9.o   
+Finished building target: day1_9
+ 
+10:26:27 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+make: Nothing to be done for 'all'.
+10:29:49 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+Building file: ../src/day1_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_9.d" -MT"src/day1_9.o" -o "src/day1_9.o" "../src/day1_9.cpp"
+Finished building: ../src/day1_9.cpp
+ 
+Building target: day1_9
+Invoking: GCC C++ Linker
+g++  -o "day1_9"  ./src/day1_9.o   
+Finished building target: day1_9
+ 
+10:29:50 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+make: Nothing to be done for 'all'.
+10:30:14 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+Building file: ../src/day1_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_9.d" -MT"src/day1_9.o" -o "src/day1_9.o" "../src/day1_9.cpp"
+Finished building: ../src/day1_9.cpp
+ 
+Building target: day1_9
+Invoking: GCC C++ Linker
+g++  -o "day1_9"  ./src/day1_9.o   
+Finished building target: day1_9
+ 
+10:30:16 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+make: Nothing to be done for 'all'.
+10:30:48 **** Incremental Build of configuration Debug for project day1_9 ****
+make all 
+Building file: ../src/day1_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_9.d" -MT"src/day1_9.o" -o "src/day1_9.o" "../src/day1_9.cpp"
+Finished building: ../src/day1_9.cpp
+ 
+Building target: day1_9
+Invoking: GCC C++ Linker
+g++  -o "day1_9"  ./src/day1_9.o   
+Finished building target: day1_9
+ 
+10:37:22 **** Build of configuration Debug for project day1_10 ****
+make all 
+Building file: ../src/day1_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_10.d" -MT"src/day1_10.o" -o "src/day1_10.o" "../src/day1_10.cpp"
+Finished building: ../src/day1_10.cpp
+ 
+Building target: day1_10
+Invoking: GCC C++ Linker
+g++  -o "day1_10"  ./src/day1_10.o   
+Finished building target: day1_10
+ 
+10:37:32 **** Incremental Build of configuration Debug for project day1_10 ****
+make all 
+make: Nothing to be done for 'all'.
+10:41:15 **** Incremental Build of configuration Debug for project day1_10 ****
+make all 
+Building file: ../src/implementation.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/implementation.d" -MT"src/implementation.o" -o "src/implementation.o" "../src/implementation.cpp"
+../src/implementation.cpp: In function ‘void disp()’:
+../src/implementation.cpp:12:2: error: ‘cout’ was not declared in this scope
+  cout<<"Inside display function";
+  ^~~~
+src/subdir.mk:21: recipe for target 'src/implementation.o' failed
+make: *** [src/implementation.o] Error 1
+10:42:53 **** Build of configuration Debug for project day1_10 ****
+make all 
+Building file: ../src/day1_10.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_10.d" -MT"src/day1_10.o" -o "src/day1_10.o" "../src/day1_10.c"
+../src/day1_10.c: In function ‘main’:
+../src/day1_10.c:16:2: warning: implicit declaration of function ‘disp’; did you mean ‘div’? [-Wimplicit-function-declaration]
+  disp();
+  ^~~~
+  div
+Finished building: ../src/day1_10.c
+ 
+Building file: ../src/imple.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/imple.d" -MT"src/imple.o" -o "src/imple.o" "../src/imple.c"
+../src/imple.c: In function ‘disp’:
+../src/imple.c:11:2: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+  printf("inside display");
+  ^~~~~~
+../src/imple.c:11:2: warning: incompatible implicit declaration of built-in function ‘printf’
+../src/imple.c:11:2: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+Finished building: ../src/imple.c
+ 
+Building target: day1_10
+Invoking: GCC C Linker
+gcc  -o "day1_10"  ./src/day1_10.o ./src/imple.o   
+Finished building target: day1_10
+ 
+10:43:04 **** Incremental Build of configuration Debug for project day1_10 ****
+make all 
+Building file: ../src/day1_10.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_10.d" -MT"src/day1_10.o" -o "src/day1_10.o" "../src/day1_10.c"
+Finished building: ../src/day1_10.c
+ 
+Building target: day1_10
+Invoking: GCC C Linker
+gcc  -o "day1_10"  ./src/day1_10.o ./src/imple.o   
+Finished building target: day1_10
+ 

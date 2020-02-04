@@ -1,0 +1,34 @@
+//============================================================================
+// Name        : day4_5.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class student
+{
+  public:
+    //creating pure virtual function
+    virtual void details()=0;
+};
+//declaring Derived class
+class Info:public student
+{
+    public:
+        void details()
+        {
+            cout<<"Inside details function of Info class"<<endl;
+        }
+};
+int main()
+{
+    student *s; //base class pointer
+    Info i;
+    s=&i; //storing address of derived class object into base
+    s->details(); //calling derived class details() using base class pointer
+    return 0;
+   }

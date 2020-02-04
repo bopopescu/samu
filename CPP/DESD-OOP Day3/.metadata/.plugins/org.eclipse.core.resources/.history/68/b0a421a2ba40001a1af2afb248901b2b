@@ -1,0 +1,30 @@
+//============================================================================
+// Name        : day3_7.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+	int num1=30,num2=5;
+	try
+	{
+	if(num2==0)
+	{
+		throw 1;
+	}
+	}
+	catch(int n)
+	{
+		cout<<"Inside int block";
+	}
+
+	cout<<"Result "<<num1/num2;
+	return 0;
+}

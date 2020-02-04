@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : day3_1.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int *ptr=new int;
+	//int *ptr = ( int* )::operator new( sizeof( int ) * 1 );
+	*ptr=100;
+	cout<<"ptr="<<*ptr;
+	delete ptr;
+	ptr=NULL;
+
+	return 0;
+}

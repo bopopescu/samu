@@ -1,0 +1,680 @@
+08:03:23 **** Build of configuration Debug for project day4_1 ****
+make all 
+Building file: ../src/day4_1.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_1.d" -MT"src/day4_1.o" -o "src/day4_1.o" "../src/day4_1.cpp"
+Finished building: ../src/day4_1.cpp
+ 
+Building target: day4_1
+Invoking: GCC C++ Linker
+g++  -o "day4_1"  ./src/day4_1.o   
+Finished building target: day4_1
+ 
+08:03:37 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:22:39 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+Building file: ../src/day4_1.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_1.d" -MT"src/day4_1.o" -o "src/day4_1.o" "../src/day4_1.cpp"
+Finished building: ../src/day4_1.cpp
+ 
+Building target: day4_1
+Invoking: GCC C++ Linker
+g++  -o "day4_1"  ./src/day4_1.o   
+Finished building target: day4_1
+ 
+08:22:42 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:25:19 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+Building file: ../src/day4_1.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_1.d" -MT"src/day4_1.o" -o "src/day4_1.o" "../src/day4_1.cpp"
+../src/day4_1.cpp: In function ‘int main()’:
+../src/day4_1.cpp:12:19: error: ‘x’ was not declared in this scope
+ #define multiply (x,y) x*y
+                   ^
+../src/day4_1.cpp:16:8: note: in expansion of macro ‘multiply’
+  cout<<multiply(4,5);
+        ^~~~~~~~
+../src/day4_1.cpp:12:21: error: ‘y’ was not declared in this scope
+ #define multiply (x,y) x*y
+                     ^
+../src/day4_1.cpp:16:8: note: in expansion of macro ‘multiply’
+  cout<<multiply(4,5);
+        ^~~~~~~~
+src/subdir.mk:18: recipe for target 'src/day4_1.o' failed
+make: *** [src/day4_1.o] Error 1
+08:25:36 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+Building file: ../src/day4_1.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_1.d" -MT"src/day4_1.o" -o "src/day4_1.o" "../src/day4_1.cpp"
+Finished building: ../src/day4_1.cpp
+ 
+Building target: day4_1
+Invoking: GCC C++ Linker
+g++  -o "day4_1"  ./src/day4_1.o   
+Finished building target: day4_1
+ 
+08:26:54 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+Building file: ../src/day4_1.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_1.d" -MT"src/day4_1.o" -o "src/day4_1.o" "../src/day4_1.cpp"
+Finished building: ../src/day4_1.cpp
+ 
+Building target: day4_1
+Invoking: GCC C++ Linker
+g++  -o "day4_1"  ./src/day4_1.o   
+Finished building target: day4_1
+ 
+08:27:02 **** Incremental Build of configuration Debug for project day4_1 ****
+make all 
+make: Nothing to be done for 'all'.
+08:30:37 **** Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:30:44 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:36:17 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘int main()’:
+../src/day4_2.cpp:33:4: error: ‘class Test’ has no member named ‘disp’
+  t.disp();
+    ^~~~
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+make: *** [src/day4_2.o] Error 1
+08:36:22 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:36:24 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:36:36 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:36:38 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:44:07 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum(int, int)’:
+../src/day4_2.cpp:33:14: warning: ‘aobj.A::num1’ is used uninitialized in this function [-Wuninitialized]
+  result=aobj.num1+bobj.num2;
+         ~~~~~^~~~
+../src/day4_2.cpp:33:24: warning: ‘bobj.B::num2’ is used uninitialized in this function [-Wuninitialized]
+  result=aobj.num1+bobj.num2;
+                   ~~~~~^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:44:09 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:45:01 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum(int, int)’:
+../src/day4_2.cpp:32:22: warning: ‘aobj.A::num1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  cout<<"Num1 "<<aobj.num1;
+                      ^~~~
+../src/day4_2.cpp:33:22: warning: ‘bobj.B::num2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  cout<<"Num2 "<<bobj.num2;
+                      ^~~~
+../src/day4_2.cpp:35:14: warning: ‘aobj.A::num1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  result=aobj.num1+bobj.num2;
+         ~~~~~^~~~
+../src/day4_2.cpp:35:24: warning: ‘bobj.B::num2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  result=aobj.num1+bobj.num2;
+                   ~~~~~^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:45:08 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum(int, int)’:
+../src/day4_2.cpp:32:22: warning: ‘aobj.A::num1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  cout<<"Num1 "<<aobj.num1<<endl;
+                      ^~~~
+../src/day4_2.cpp:33:22: warning: ‘bobj.B::num2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  cout<<"Num2 "<<bobj.num2<<endl;
+                      ^~~~
+../src/day4_2.cpp:35:14: warning: ‘aobj.A::num1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  result=aobj.num1+bobj.num2;
+         ~~~~~^~~~
+../src/day4_2.cpp:35:24: warning: ‘bobj.B::num2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  result=aobj.num1+bobj.num2;
+                   ~~~~~^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:45:10 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:45:19 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum(int, int)’:
+../src/day4_2.cpp:35:14: warning: ‘aobj.A::num1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  result=aobj.num1+bobj.num2;
+         ~~~~~^~~~
+../src/day4_2.cpp:35:24: warning: ‘bobj.B::num2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+  result=aobj.num1+bobj.num2;
+                   ~~~~~^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:45:22 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:45:29 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum(int, int)’:
+../src/day4_2.cpp:30:4: warning: unused variable ‘aobj’ [-Wunused-variable]
+  A aobj;
+    ^~~~
+../src/day4_2.cpp:31:4: warning: unused variable ‘bobj’ [-Wunused-variable]
+  B bobj;
+    ^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:45:31 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:45:52 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum(int, int)’:
+../src/day4_2.cpp:30:4: warning: unused variable ‘aobj’ [-Wunused-variable]
+  A aobj;
+    ^~~~
+../src/day4_2.cpp:31:4: warning: unused variable ‘bobj’ [-Wunused-variable]
+  B bobj;
+    ^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:45:58 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:49:28 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum()’:
+../src/day4_2.cpp:41:14: error: ‘int A::num1’ is private within this context
+  result=aobj.num1+bobj.num2;
+              ^~~~
+../src/day4_2.cpp:15:6: note: declared private here
+  int num1;
+      ^~~~
+make: *** [src/day4_2.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+08:50:07 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum()’:
+../src/day4_2.cpp:41:14: error: ‘int A::num1’ is private within this context
+  result=aobj.num1+bobj.num2;
+              ^~~~
+../src/day4_2.cpp:15:6: note: declared private here
+  int num1;
+      ^~~~
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+make: *** [src/day4_2.o] Error 1
+08:50:27 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:50:29 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:58:29 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum()’:
+../src/day4_2.cpp:29:13: error: ‘int B::num1’ is private within this context
+  result=obj.num1+obj.num2;
+             ^~~~
+../src/day4_2.cpp:20:11: note: declared private here
+  int num1=30,num2=10;
+           ^~
+../src/day4_2.cpp:29:22: error: ‘int B::num2’ is private within this context
+  result=obj.num1+obj.num2;
+                      ^~~~
+../src/day4_2.cpp:20:19: note: declared private here
+  int num1=30,num2=10;
+                   ^~
+make: *** [src/day4_2.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+08:58:47 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum()’:
+../src/day4_2.cpp:29:13: error: ‘int B::num1’ is private within this context
+  result=obj.num1+obj.num2;
+             ^~~~
+../src/day4_2.cpp:20:11: note: declared private here
+  int num1=30,num2=10;
+           ^~
+../src/day4_2.cpp:29:22: error: ‘int B::num2’ is private within this context
+  result=obj.num1+obj.num2;
+                      ^~~~
+../src/day4_2.cpp:20:19: note: declared private here
+  int num1=30,num2=10;
+                   ^~
+../src/day4_2.cpp: In function ‘int main()’:
+../src/day4_2.cpp:35:4: warning: unused variable ‘aobj’ [-Wunused-variable]
+  A aobj;
+    ^~~~
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+make: *** [src/day4_2.o] Error 1
+08:58:49 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘void sum()’:
+../src/day4_2.cpp:29:13: error: ‘int B::num1’ is private within this context
+  result=obj.num1+obj.num2;
+             ^~~~
+../src/day4_2.cpp:20:11: note: declared private here
+  int num1=30,num2=10;
+           ^~
+../src/day4_2.cpp:29:22: error: ‘int B::num2’ is private within this context
+  result=obj.num1+obj.num2;
+                      ^~~~
+../src/day4_2.cpp:20:19: note: declared private here
+  int num1=30,num2=10;
+                   ^~
+../src/day4_2.cpp: In function ‘int main()’:
+../src/day4_2.cpp:35:4: warning: unused variable ‘aobj’ [-Wunused-variable]
+  A aobj;
+    ^~~~
+make: *** [src/day4_2.o] Error 1
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+08:59:27 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘int main()’:
+../src/day4_2.cpp:36:4: warning: unused variable ‘aobj’ [-Wunused-variable]
+  A aobj;
+    ^~~~
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+08:59:29 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+08:59:46 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+09:01:52 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+../src/day4_2.cpp: In function ‘int main()’:
+../src/day4_2.cpp:36:2: error: ‘sum’ was not declared in this scope
+  sum();
+  ^~~
+src/subdir.mk:18: recipe for target 'src/day4_2.o' failed
+make: *** [src/day4_2.o] Error 1
+09:02:03 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+Building file: ../src/day4_2.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_2.d" -MT"src/day4_2.o" -o "src/day4_2.o" "../src/day4_2.cpp"
+Finished building: ../src/day4_2.cpp
+ 
+Building target: day4_2
+Invoking: GCC C++ Linker
+g++  -o "day4_2"  ./src/day4_2.o   
+Finished building target: day4_2
+ 
+09:02:07 **** Incremental Build of configuration Debug for project day4_2 ****
+make all 
+make: Nothing to be done for 'all'.
+09:10:34 **** Build of configuration Debug for project day4_3 ****
+make all 
+Building file: ../src/day4_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_3.d" -MT"src/day4_3.o" -o "src/day4_3.o" "../src/day4_3.cpp"
+Finished building: ../src/day4_3.cpp
+ 
+Building target: day4_3
+Invoking: GCC C++ Linker
+g++  -o "day4_3"  ./src/day4_3.o   
+Finished building target: day4_3
+ 
+09:10:43 **** Incremental Build of configuration Debug for project day4_3 ****
+make all 
+make: Nothing to be done for 'all'.
+09:28:53 **** Incremental Build of configuration Debug for project day4_3 ****
+make all 
+make: Nothing to be done for 'all'.
+09:30:07 **** Incremental Build of configuration Debug for project day4_3 ****
+make all 
+Building file: ../src/day4_3.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_3.d" -MT"src/day4_3.o" -o "src/day4_3.o" "../src/day4_3.cpp"
+Finished building: ../src/day4_3.cpp
+ 
+Building target: day4_3
+Invoking: GCC C++ Linker
+g++  -o "day4_3"  ./src/day4_3.o   
+Finished building target: day4_3
+ 
+09:30:09 **** Incremental Build of configuration Debug for project day4_3 ****
+make all 
+make: Nothing to be done for 'all'.
+09:31:02 **** Build of configuration Debug for project day4_4 ****
+make all 
+Building file: ../src/day4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_4.d" -MT"src/day4_4.o" -o "src/day4_4.o" "../src/day4_4.cpp"
+Finished building: ../src/day4_4.cpp
+ 
+Building target: day4_4
+Invoking: GCC C++ Linker
+g++  -o "day4_4"  ./src/day4_4.o   
+Finished building target: day4_4
+ 
+09:31:09 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:36:12 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+Building file: ../src/day4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_4.d" -MT"src/day4_4.o" -o "src/day4_4.o" "../src/day4_4.cpp"
+Finished building: ../src/day4_4.cpp
+ 
+Building target: day4_4
+Invoking: GCC C++ Linker
+g++  -o "day4_4"  ./src/day4_4.o   
+Finished building target: day4_4
+ 
+09:36:14 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:39:55 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+Building file: ../src/day4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_4.d" -MT"src/day4_4.o" -o "src/day4_4.o" "../src/day4_4.cpp"
+Finished building: ../src/day4_4.cpp
+ 
+Building target: day4_4
+Invoking: GCC C++ Linker
+g++  -o "day4_4"  ./src/day4_4.o   
+Finished building target: day4_4
+ 
+09:39:58 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:45:04 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+Building file: ../src/day4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_4.d" -MT"src/day4_4.o" -o "src/day4_4.o" "../src/day4_4.cpp"
+../src/day4_4.cpp: In member function ‘virtual void Derived::show()’:
+../src/day4_4.cpp:27:3: error: ‘A’ was not declared in this scope
+   A obj;
+   ^
+../src/day4_4.cpp:28:3: error: ‘obj’ was not declared in this scope
+   obj.show();
+   ^~~
+src/subdir.mk:18: recipe for target 'src/day4_4.o' failed
+make: *** [src/day4_4.o] Error 1
+09:45:32 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+Building file: ../src/day4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_4.d" -MT"src/day4_4.o" -o "src/day4_4.o" "../src/day4_4.cpp"
+../src/day4_4.cpp: In member function ‘virtual void Derived::show()’:
+../src/day4_4.cpp:27:3: error: ‘A’ has not been declared
+   A::show();
+   ^
+src/subdir.mk:18: recipe for target 'src/day4_4.o' failed
+make: *** [src/day4_4.o] Error 1
+09:45:42 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+Building file: ../src/day4_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_4.d" -MT"src/day4_4.o" -o "src/day4_4.o" "../src/day4_4.cpp"
+Finished building: ../src/day4_4.cpp
+ 
+Building target: day4_4
+Invoking: GCC C++ Linker
+g++  -o "day4_4"  ./src/day4_4.o   
+Finished building target: day4_4
+ 
+09:45:45 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:55:25 **** Build of configuration Debug for project day4_5 ****
+make all 
+Building file: ../src/day4_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_5.d" -MT"src/day4_5.o" -o "src/day4_5.o" "../src/day4_5.cpp"
+Finished building: ../src/day4_5.cpp
+ 
+Building target: day4_5
+Invoking: GCC C++ Linker
+g++  -o "day4_5"  ./src/day4_5.o   
+Finished building target: day4_5
+ 
+09:55:32 **** Incremental Build of configuration Debug for project day4_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:59:26 **** Incremental Build of configuration Debug for project day4_5 ****
+make all 
+Building file: ../src/day4_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_5.d" -MT"src/day4_5.o" -o "src/day4_5.o" "../src/day4_5.cpp"
+Finished building: ../src/day4_5.cpp
+ 
+Building target: day4_5
+Invoking: GCC C++ Linker
+g++  -o "day4_5"  ./src/day4_5.o   
+Finished building target: day4_5
+ 
+09:59:48 **** Incremental Build of configuration Debug for project day4_5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:59:54 **** Incremental Build of configuration Debug for project day4_5 ****
+make all 
+make: Nothing to be done for 'all'.
+10:03:52 **** Incremental Build of configuration Debug for project day4_5 ****
+make all 
+Building file: ../src/day4_5.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_5.d" -MT"src/day4_5.o" -o "src/day4_5.o" "../src/day4_5.cpp"
+Finished building: ../src/day4_5.cpp
+ 
+Building target: day4_5
+Invoking: GCC C++ Linker
+g++  -o "day4_5"  ./src/day4_5.o   
+Finished building target: day4_5
+ 
+10:03:55 **** Incremental Build of configuration Debug for project day4_5 ****
+make all 
+make: Nothing to be done for 'all'.
+10:08:14 **** Build of configuration Debug for project day4_6 ****
+make all 
+Building file: ../src/day4_6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_6.d" -MT"src/day4_6.o" -o "src/day4_6.o" "../src/day4_6.cpp"
+Finished building: ../src/day4_6.cpp
+ 
+Building target: day4_6
+Invoking: GCC C++ Linker
+g++  -o "day4_6"  ./src/day4_6.o   
+Finished building target: day4_6
+ 
+10:08:20 **** Incremental Build of configuration Debug for project day4_6 ****
+make all 
+make: Nothing to be done for 'all'.
+10:08:56 **** Incremental Build of configuration Debug for project day4_6 ****
+make all 
+Building file: ../src/day4_6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_6.d" -MT"src/day4_6.o" -o "src/day4_6.o" "../src/day4_6.cpp"
+Finished building: ../src/day4_6.cpp
+ 
+Building target: day4_6
+Invoking: GCC C++ Linker
+g++  -o "day4_6"  ./src/day4_6.o   
+Finished building target: day4_6
+ 
+10:14:44 **** Incremental Build of configuration Debug for project day4_6 ****
+make all 
+Building file: ../src/day4_6.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_6.d" -MT"src/day4_6.o" -o "src/day4_6.o" "../src/day4_6.cpp"
+Finished building: ../src/day4_6.cpp
+ 
+Building target: day4_6
+Invoking: GCC C++ Linker
+g++  -o "day4_6"  ./src/day4_6.o   
+Finished building target: day4_6
+ 
+10:14:54 **** Incremental Build of configuration Debug for project day4_6 ****
+make all 
+make: Nothing to be done for 'all'.
+10:37:08 **** Build of configuration Debug for project day4_7 ****
+make all 
+Building file: ../src/day4_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_7.d" -MT"src/day4_7.o" -o "src/day4_7.o" "../src/day4_7.cpp"
+Finished building: ../src/day4_7.cpp
+ 
+Building target: day4_7
+Invoking: GCC C++ Linker
+g++  -o "day4_7"  ./src/day4_7.o   
+Finished building target: day4_7
+ 
+10:37:13 **** Incremental Build of configuration Debug for project day4_7 ****
+make all 
+make: Nothing to be done for 'all'.
+10:41:58 **** Incremental Build of configuration Debug for project day4_7 ****
+make all 
+Building file: ../src/day4_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day4_7.d" -MT"src/day4_7.o" -o "src/day4_7.o" "../src/day4_7.cpp"
+Finished building: ../src/day4_7.cpp
+ 
+Building target: day4_7
+Invoking: GCC C++ Linker
+g++  -o "day4_7"  ./src/day4_7.o   
+Finished building target: day4_7
+ 
+10:42:01 **** Incremental Build of configuration Debug for project day4_7 ****
+make all 
+make: Nothing to be done for 'all'.

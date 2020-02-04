@@ -1,0 +1,22 @@
+//============================================================================
+// Name        : day1_3.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//======================b======================================================
+
+#include <iostream>
+using namespace std;
+//function
+//function declaration / function signature/ function prototype
+//fuction definition
+//functioncall
+
+void sum(int a,int b);
+
+int main()
+{
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

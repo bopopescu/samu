@@ -1,0 +1,88 @@
+//============================================================================
+// Name        : day2_5.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+class Complex
+{
+private:
+	int real;
+	int imag;
+public:
+	//constructor
+	Complex()
+	{
+		this->real=0;
+		this->imag=0;
+	}
+	Complex(int real,int imag)
+	{
+		this->real=real;
+		this->imag=imag;
+	}
+	~Complex()
+	{
+		cout<<"\n Inside Desctructor";
+	}
+
+	//facilitator
+	void accept()
+	{
+		cout<<"\n Enter Real Value : ";
+		cin>>this->real;
+		cout<<"\n Enter Imag Value : ";
+		cin>>this->imag;
+
+	}
+	void disp()
+	{
+		cout<<"Real : "<<this->real;
+		cout<<"Imag : "<<this->imag;
+	}
+
+	//Setter Methods [Mutator] : modify state of object
+
+	void setReal(int real)
+	{
+		this->real=real;
+	}
+	void setImag(int Imag)
+	{
+		this->imag=imag;
+	}
+
+	//getter methods[Inspector] :  do not change the state of the object
+	int getReal()
+	{
+		return this->real;
+	}
+	int getImag()
+	{
+		return this->imag;
+	}
+
+}; //end of class
+
+int main()
+{
+
+	//Complex c;
+	//c.disp();
+	Complex c1(30,20);
+	int r,i;
+	r=c1.getReal();
+	i=c1.getImag();
+	cout<<"\n Getter R ="<<r <<"Getter I = "<<i;
+	c1.disp();
+
+	Complex c2;
+	c2.setReal(300);
+	c2.setImag(400);
+	c2.disp();
+	return 0;
+}

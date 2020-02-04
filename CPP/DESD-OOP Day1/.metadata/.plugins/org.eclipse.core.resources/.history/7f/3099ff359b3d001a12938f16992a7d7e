@@ -1,0 +1,73 @@
+//============================================================================
+// Name        : day1_8.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Complex
+{
+private:
+	int real; //data members  of class Complex
+	int imag;
+public:
+	//member function of class Complex
+	void disp(int real,int imag);
+};
+
+void Complex :: disp(int real,int imag)
+{
+	cout<<"Real="<<this->real;
+	cout<<"Imag="<<this->imag;
+}
+
+int main()
+{
+	Complex c;
+	c.disp(10,20);
+	return 0;
+}
+
+
+
+
+/*
+class Complex
+{
+private:
+	int real; //data members  of class Complex
+	int imag;
+public:
+	//member function of class Complex
+	void accept();
+	void disp();
+};
+
+void Complex :: accept()
+{
+	cout<<"Enter real number value";
+	cin>>real;
+	cout<<"Enter imag value";
+	cin>>imag;
+}
+
+void Complex :: disp()
+{
+	cout<<"Real="<<real;
+	cout<<"Imag="<<imag;
+}
+
+
+int main()
+{
+	Complex c;
+	c.accept();
+	c.disp();
+	return 0;
+}
+*/
+

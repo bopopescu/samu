@@ -1,0 +1,62 @@
+//============================================================================
+// Name        : day4_7.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include<cstring>
+using namespace std;
+
+class Person
+{
+private:
+	string name;
+	int age;
+public:
+	Person()
+	{
+		this->name="";
+		this->age=0;
+
+	}
+	Person(string name , int age)
+		{
+			this->name=name;
+			this->age=age;
+
+		}
+
+	void display()
+	{
+		cout<<"\n Name "<<this->name;
+		cout<<"\n Age "<<this->age;
+
+	}
+};
+
+
+class Employee : public Person
+{
+private:
+	int empid;
+public:
+	Employee()
+	{
+		this->empid=0;
+	}
+	Employee(string name , int age,int empid):Person(name,age)
+	{
+		this->empid=empid;
+	}
+
+
+
+};
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

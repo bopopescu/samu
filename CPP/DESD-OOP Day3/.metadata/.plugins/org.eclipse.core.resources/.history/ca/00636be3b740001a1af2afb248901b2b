@@ -1,0 +1,32 @@
+//============================================================================
+// Name        : day3_6.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class constDemo
+{
+private:
+	int n;
+	const int c;
+	mutable int m;
+
+public:
+	constDemo():c(5)
+	{
+		n=100;
+		m=300;
+	}
+
+};
+
+int main()
+{
+
+	return 0;
+}

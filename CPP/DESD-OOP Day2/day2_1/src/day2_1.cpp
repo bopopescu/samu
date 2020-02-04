@@ -1,0 +1,45 @@
+//============================================================================
+// Name        : day2_1.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+#include<iomanip>
+
+int main(void)
+{
+	int num=50;
+	cout<<"Number = "<<setw(8)<<num;//set width
+	cout<<endl;
+	double f =3.14159;
+	cout << setprecision(5) << f << '\n';
+
+	int val=16;
+	cout<<"\n Hexa Value of Val ="<<hex<<val;
+	cout<<"\n octal Value of Val ="<<oct<<val;
+	cout<<"\n dec Value of Val ="<<dec<<val;
+
+	return 0;
+}
+
+
+/*
+//escape sequences
+int main()
+{
+	cout<<"hello \n";
+	cout<<"world"<<endl;
+	cout<<"Hello \t World";
+	cout<<"hello \r";//carriage return
+	cout<<"world"<<endl;
+	cout<<"hello \b World";
+
+
+	return 0;
+}
+*/
+

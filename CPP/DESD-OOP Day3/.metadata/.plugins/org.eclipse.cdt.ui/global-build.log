@@ -1,0 +1,622 @@
+09:38:50 **** Clean-only build of configuration Debug for project day3_7 ****
+make clean 
+rm -rf  ./src/day3_7.o  ./src/day3_7.d  day3_7
+ 
+09:39:17 **** Build of configuration Debug for project day3_7 ****
+make all 
+Building file: ../src/day3_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_7.d" -MT"src/day3_7.o" -o "src/day3_7.o" "../src/day3_7.cpp"
+Finished building: ../src/day3_7.cpp
+ 
+Building target: day3_7
+Invoking: GCC C++ Linker
+g++  -o "day3_7"  ./src/day3_7.o   
+Finished building target: day3_7
+ 
+09:39:20 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:39:34 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+Building file: ../src/day3_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_7.d" -MT"src/day3_7.o" -o "src/day3_7.o" "../src/day3_7.cpp"
+../src/day3_7.cpp: In function ‘int main()’:
+../src/day3_7.cpp:15:6: warning: unused variable ‘num1’ [-Wunused-variable]
+  int num1=30,num2=0;
+      ^~~~
+Finished building: ../src/day3_7.cpp
+ 
+Building target: day3_7
+Invoking: GCC C++ Linker
+g++  -o "day3_7"  ./src/day3_7.o   
+Finished building target: day3_7
+ 
+09:39:36 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:39:49 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+Building file: ../src/day3_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_7.d" -MT"src/day3_7.o" -o "src/day3_7.o" "../src/day3_7.cpp"
+Finished building: ../src/day3_7.cpp
+ 
+Building target: day3_7
+Invoking: GCC C++ Linker
+g++  -o "day3_7"  ./src/day3_7.o   
+Finished building target: day3_7
+ 
+09:39:53 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:40:35 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+Building file: ../src/day3_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_7.d" -MT"src/day3_7.o" -o "src/day3_7.o" "../src/day3_7.cpp"
+Finished building: ../src/day3_7.cpp
+ 
+Building target: day3_7
+Invoking: GCC C++ Linker
+g++  -o "day3_7"  ./src/day3_7.o   
+Finished building target: day3_7
+ 
+09:40:37 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:41:40 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+Building file: ../src/day3_7.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_7.d" -MT"src/day3_7.o" -o "src/day3_7.o" "../src/day3_7.cpp"
+Finished building: ../src/day3_7.cpp
+ 
+Building target: day3_7
+Invoking: GCC C++ Linker
+g++  -o "day3_7"  ./src/day3_7.o   
+Finished building target: day3_7
+ 
+09:41:42 **** Incremental Build of configuration Debug for project day3_7 ****
+make all 
+make: Nothing to be done for 'all'.
+09:42:45 **** Build of configuration Debug for project day3_8 ****
+make all 
+Building file: ../src/day3_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_8.d" -MT"src/day3_8.o" -o "src/day3_8.o" "../src/day3_8.cpp"
+Finished building: ../src/day3_8.cpp
+ 
+Building target: day3_8
+Invoking: GCC C++ Linker
+g++  -o "day3_8"  ./src/day3_8.o   
+Finished building target: day3_8
+ 
+09:42:51 **** Incremental Build of configuration Debug for project day3_8 ****
+make all 
+make: Nothing to be done for 'all'.
+09:49:04 **** Incremental Build of configuration Debug for project day3_8 ****
+make all 
+Building file: ../src/day3_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_8.d" -MT"src/day3_8.o" -o "src/day3_8.o" "../src/day3_8.cpp"
+Finished building: ../src/day3_8.cpp
+ 
+Building target: day3_8
+Invoking: GCC C++ Linker
+g++  -o "day3_8"  ./src/day3_8.o   
+Finished building target: day3_8
+ 
+09:49:07 **** Incremental Build of configuration Debug for project day3_8 ****
+make all 
+make: Nothing to be done for 'all'.
+09:49:11 **** Incremental Build of configuration Debug for project day3_8 ****
+make all 
+make: Nothing to be done for 'all'.
+09:51:13 **** Incremental Build of configuration Debug for project day3_8 ****
+make all 
+Building file: ../src/day3_8.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_8.d" -MT"src/day3_8.o" -o "src/day3_8.o" "../src/day3_8.cpp"
+Finished building: ../src/day3_8.cpp
+ 
+Building target: day3_8
+Invoking: GCC C++ Linker
+g++  -o "day3_8"  ./src/day3_8.o   
+Finished building target: day3_8
+ 
+09:51:15 **** Incremental Build of configuration Debug for project day3_8 ****
+make all 
+make: Nothing to be done for 'all'.
+09:51:46 **** Build of configuration Debug for project day3_9 ****
+make all 
+Building file: ../src/day3_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_9.d" -MT"src/day3_9.o" -o "src/day3_9.o" "../src/day3_9.cpp"
+Finished building: ../src/day3_9.cpp
+ 
+Building target: day3_9
+Invoking: GCC C++ Linker
+g++  -o "day3_9"  ./src/day3_9.o   
+Finished building target: day3_9
+ 
+09:51:52 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+make: Nothing to be done for 'all'.
+09:55:12 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+Building file: ../src/day3_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_9.d" -MT"src/day3_9.o" -o "src/day3_9.o" "../src/day3_9.cpp"
+Finished building: ../src/day3_9.cpp
+ 
+Building target: day3_9
+Invoking: GCC C++ Linker
+g++  -o "day3_9"  ./src/day3_9.o   
+Finished building target: day3_9
+ 
+09:55:14 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+make: Nothing to be done for 'all'.
+09:55:28 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+Building file: ../src/day3_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_9.d" -MT"src/day3_9.o" -o "src/day3_9.o" "../src/day3_9.cpp"
+Finished building: ../src/day3_9.cpp
+ 
+Building target: day3_9
+Invoking: GCC C++ Linker
+g++  -o "day3_9"  ./src/day3_9.o   
+Finished building target: day3_9
+ 
+09:55:30 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+make: Nothing to be done for 'all'.
+09:56:04 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+Building file: ../src/day3_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_9.d" -MT"src/day3_9.o" -o "src/day3_9.o" "../src/day3_9.cpp"
+../src/day3_9.cpp: In function ‘int main()’:
+../src/day3_9.cpp:44:15: error: no match for ‘operator+’ (operand types are ‘Point’ and ‘Point’)
+  Point pt3=pt1+pt2;
+            ~~~^~~~
+In file included from /usr/include/c++/7/bits/stl_algobase.h:67:0,
+                 from /usr/include/c++/7/bits/char_traits.h:39,
+                 from /usr/include/c++/7/ios:40,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/stl_iterator.h:397:5: note: candidate: template<class _Iterator> std::reverse_iterator<_Iterator> std::operator+(typename std::reverse_iterator<_Iterator>::difference_type, const std::reverse_iterator<_Iterator>&)
+     operator+(typename reverse_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+/usr/include/c++/7/bits/stl_iterator.h:397:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::reverse_iterator<_Iterator>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/bits/stl_algobase.h:67:0,
+                 from /usr/include/c++/7/bits/char_traits.h:39,
+                 from /usr/include/c++/7/ios:40,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/stl_iterator.h:1198:5: note: candidate: template<class _Iterator> std::move_iterator<_IteratorL> std::operator+(typename std::move_iterator<_IteratorL>::difference_type, const std::move_iterator<_IteratorL>&)
+     operator+(typename move_iterator<_Iterator>::difference_type __n,
+     ^~~~~~~~
+/usr/include/c++/7/bits/stl_iterator.h:1198:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::move_iterator<_IteratorL>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5879:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5879:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:53:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.tcc:1157:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.tcc:1157:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   mismatched types ‘const _CharT*’ and ‘Point’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:53:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.tcc:1173:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(_CharT __lhs, const basic_string<_CharT, _Traits, _Alloc>& __rhs)
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.tcc:1173:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5916:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5916:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5932:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, _CharT)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs, _CharT __rhs)
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5932:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5944:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5944:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5950:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const basic_string<_CharT, _Traits, _Alloc>& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5950:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘const std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5956:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5956:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5968:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(const _CharT*, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(const _CharT* __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5968:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   mismatched types ‘const _CharT*’ and ‘Point’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5974:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(_CharT, std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&)
+     operator+(_CharT __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5974:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5980:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, const _CharT*)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5980:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+In file included from /usr/include/c++/7/string:52:0,
+                 from /usr/include/c++/7/bits/locale_classes.h:40,
+                 from /usr/include/c++/7/bits/ios_base.h:41,
+                 from /usr/include/c++/7/ios:42,
+                 from /usr/include/c++/7/ostream:38,
+                 from /usr/include/c++/7/iostream:39,
+                 from ../src/day3_9.cpp:9:
+/usr/include/c++/7/bits/basic_string.h:5986:5: note: candidate: template<class _CharT, class _Traits, class _Alloc> std::__cxx11::basic_string<_CharT, _Traits, _Alloc> std::operator+(std::__cxx11::basic_string<_CharT, _Traits, _Alloc>&&, _CharT)
+     operator+(basic_string<_CharT, _Traits, _Alloc>&& __lhs,
+     ^~~~~~~~
+/usr/include/c++/7/bits/basic_string.h:5986:5: note:   template argument deduction/substitution failed:
+../src/day3_9.cpp:44:16: note:   ‘Point’ is not derived from ‘std::__cxx11::basic_string<_CharT, _Traits, _Alloc>’
+  Point pt3=pt1+pt2;
+                ^~~
+../src/day3_9.cpp:44:8: warning: unused variable ‘pt3’ [-Wunused-variable]
+  Point pt3=pt1+pt2;
+        ^~~
+src/subdir.mk:18: recipe for target 'src/day3_9.o' failed
+make: *** [src/day3_9.o] Error 1
+10:00:17 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+Building file: ../src/day3_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_9.d" -MT"src/day3_9.o" -o "src/day3_9.o" "../src/day3_9.cpp"
+Finished building: ../src/day3_9.cpp
+ 
+Building target: day3_9
+Invoking: GCC C++ Linker
+g++  -o "day3_9"  ./src/day3_9.o   
+/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+makefile:45: recipe for target 'day3_9' failed
+make: *** [day3_9] Error 1
+10:00:28 **** Incremental Build of configuration Debug for project day3_9 ****
+make all 
+Building file: ../src/day3_9.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_9.d" -MT"src/day3_9.o" -o "src/day3_9.o" "../src/day3_9.cpp"
+Finished building: ../src/day3_9.cpp
+ 
+Building target: day3_9
+Invoking: GCC C++ Linker
+g++  -o "day3_9"  ./src/day3_9.o   
+/usr/lib/gcc/x86_64-linux-gnu/7/../../../x86_64-linux-gnu/Scrt1.o: In function `_start':
+(.text+0x20): undefined reference to `main'
+collect2: error: ld returned 1 exit status
+makefile:45: recipe for target 'day3_9' failed
+make: *** [day3_9] Error 1
+10:00:52 **** Build of configuration Debug for project day3_10 ****
+make all 
+Building file: ../src/day3_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_10.d" -MT"src/day3_10.o" -o "src/day3_10.o" "../src/day3_10.cpp"
+Finished building: ../src/day3_10.cpp
+ 
+Building target: day3_10
+Invoking: GCC C++ Linker
+g++  -o "day3_10"  ./src/day3_10.o   
+Finished building target: day3_10
+ 
+10:00:57 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+make: Nothing to be done for 'all'.
+10:09:24 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+Building file: ../src/day3_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_10.d" -MT"src/day3_10.o" -o "src/day3_10.o" "../src/day3_10.cpp"
+../src/day3_10.cpp: In member function ‘Point Point::operator+(Point&)’:
+../src/day3_10.cpp:36:2: warning: no return statement in function returning non-void [-Wreturn-type]
+  }
+  ^
+Finished building: ../src/day3_10.cpp
+ 
+Building target: day3_10
+Invoking: GCC C++ Linker
+g++  -o "day3_10"  ./src/day3_10.o   
+Finished building target: day3_10
+ 
+10:09:26 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+make: Nothing to be done for 'all'.
+10:09:38 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+Building file: ../src/day3_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_10.d" -MT"src/day3_10.o" -o "src/day3_10.o" "../src/day3_10.cpp"
+../src/day3_10.cpp: In member function ‘Point Point::operator+(Point&)’:
+../src/day3_10.cpp:36:2: warning: no return statement in function returning non-void [-Wreturn-type]
+  }
+  ^
+Finished building: ../src/day3_10.cpp
+ 
+Building target: day3_10
+Invoking: GCC C++ Linker
+g++  -o "day3_10"  ./src/day3_10.o   
+Finished building target: day3_10
+ 
+10:09:40 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+make: Nothing to be done for 'all'.
+10:09:52 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+Building file: ../src/day3_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_10.d" -MT"src/day3_10.o" -o "src/day3_10.o" "../src/day3_10.cpp"
+../src/day3_10.cpp: In member function ‘Point Point::operator+(Point&)’:
+../src/day3_10.cpp:36:2: warning: no return statement in function returning non-void [-Wreturn-type]
+  }
+  ^
+../src/day3_10.cpp: In function ‘int main()’:
+../src/day3_10.cpp:53:8: warning: variable ‘pt3’ set but not used [-Wunused-but-set-variable]
+  Point pt3=pt1+pt2;
+        ^~~
+Finished building: ../src/day3_10.cpp
+ 
+Building target: day3_10
+Invoking: GCC C++ Linker
+g++  -o "day3_10"  ./src/day3_10.o   
+Finished building target: day3_10
+ 
+10:14:26 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+Building file: ../src/day3_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_10.d" -MT"src/day3_10.o" -o "src/day3_10.o" "../src/day3_10.cpp"
+Finished building: ../src/day3_10.cpp
+ 
+Building target: day3_10
+Invoking: GCC C++ Linker
+g++  -o "day3_10"  ./src/day3_10.o   
+Finished building target: day3_10
+ 
+10:14:28 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+make: Nothing to be done for 'all'.
+10:14:38 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+Building file: ../src/day3_10.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_10.d" -MT"src/day3_10.o" -o "src/day3_10.o" "../src/day3_10.cpp"
+Finished building: ../src/day3_10.cpp
+ 
+Building target: day3_10
+Invoking: GCC C++ Linker
+g++  -o "day3_10"  ./src/day3_10.o   
+Finished building target: day3_10
+ 
+10:14:40 **** Incremental Build of configuration Debug for project day3_10 ****
+make all 
+make: Nothing to be done for 'all'.
+10:27:46 **** Build of configuration Debug for project day3_11 ****
+make all 
+Building file: ../src/day3_11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_11.d" -MT"src/day3_11.o" -o "src/day3_11.o" "../src/day3_11.cpp"
+Finished building: ../src/day3_11.cpp
+ 
+Building target: day3_11
+Invoking: GCC C++ Linker
+g++  -o "day3_11"  ./src/day3_11.o   
+Finished building target: day3_11
+ 
+10:27:51 **** Incremental Build of configuration Debug for project day3_11 ****
+make all 
+make: Nothing to be done for 'all'.
+10:37:42 **** Incremental Build of configuration Debug for project day3_11 ****
+make all 
+Building file: ../src/day3_11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_11.d" -MT"src/day3_11.o" -o "src/day3_11.o" "../src/day3_11.cpp"
+Finished building: ../src/day3_11.cpp
+ 
+Building target: day3_11
+Invoking: GCC C++ Linker
+g++  -o "day3_11"  ./src/day3_11.o   
+Finished building target: day3_11
+ 
+10:37:45 **** Incremental Build of configuration Debug for project day3_11 ****
+make all 
+make: Nothing to be done for 'all'.
+10:38:57 **** Incremental Build of configuration Debug for project day3_11 ****
+make all 
+Building file: ../src/day3_11.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_11.d" -MT"src/day3_11.o" -o "src/day3_11.o" "../src/day3_11.cpp"
+Finished building: ../src/day3_11.cpp
+ 
+Building target: day3_11
+Invoking: GCC C++ Linker
+g++  -o "day3_11"  ./src/day3_11.o   
+Finished building target: day3_11
+ 
+10:39:01 **** Incremental Build of configuration Debug for project day3_11 ****
+make all 
+make: Nothing to be done for 'all'.
+10:42:31 **** Build of configuration Debug for project day3_12 ****
+make all 
+Building file: ../src/day3_12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_12.d" -MT"src/day3_12.o" -o "src/day3_12.o" "../src/day3_12.cpp"
+Finished building: ../src/day3_12.cpp
+ 
+Building target: day3_12
+Invoking: GCC C++ Linker
+g++  -o "day3_12"  ./src/day3_12.o   
+Finished building target: day3_12
+ 
+10:42:38 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+make: Nothing to be done for 'all'.
+10:45:41 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+Building file: ../src/day3_12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_12.d" -MT"src/day3_12.o" -o "src/day3_12.o" "../src/day3_12.cpp"
+Finished building: ../src/day3_12.cpp
+ 
+Building target: day3_12
+Invoking: GCC C++ Linker
+g++  -o "day3_12"  ./src/day3_12.o   
+Finished building target: day3_12
+ 
+10:45:42 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+make: Nothing to be done for 'all'.
+10:46:37 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+Building file: ../src/day3_12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_12.d" -MT"src/day3_12.o" -o "src/day3_12.o" "../src/day3_12.cpp"
+Finished building: ../src/day3_12.cpp
+ 
+Building target: day3_12
+Invoking: GCC C++ Linker
+g++  -o "day3_12"  ./src/day3_12.o   
+Finished building target: day3_12
+ 
+10:46:39 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+make: Nothing to be done for 'all'.
+10:47:09 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+Building file: ../src/day3_12.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_12.d" -MT"src/day3_12.o" -o "src/day3_12.o" "../src/day3_12.cpp"
+Finished building: ../src/day3_12.cpp
+ 
+Building target: day3_12
+Invoking: GCC C++ Linker
+g++  -o "day3_12"  ./src/day3_12.o   
+Finished building target: day3_12
+ 
+10:47:11 **** Incremental Build of configuration Debug for project day3_12 ****
+make all 
+make: Nothing to be done for 'all'.

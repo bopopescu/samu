@@ -1,0 +1,24 @@
+//============================================================================
+// Name        : day1_7.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+{
+	int num=10;
+}
+
+
+{
+i	int num=20;
+}
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

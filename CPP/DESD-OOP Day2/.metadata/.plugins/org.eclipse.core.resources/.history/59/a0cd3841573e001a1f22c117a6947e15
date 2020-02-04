@@ -1,0 +1,118 @@
+//============================================================================
+// Name        : day2_2.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+namespace class_inside_namespace
+{
+class Complex
+{
+private:
+	int real;
+	int imag;
+public:
+	void accept();
+	void disp();
+}; //end of class
+
+}  //end of namespace
+
+
+using namespace class_inside_namespace;
+void Complex::accept()
+{
+	cout<<"Enter real value";
+	cin>>this->real;
+	cout<<"Enter imag value";
+	cin>>this->imag;
+}
+
+void Complex::disp()
+{
+	cout<<"Real : "<<this->real;
+	cout<<"Imag : "<<this->imag;
+
+}
+
+int main()
+{
+	Complex c; //object of Complex class
+	c.accept();
+	c.disp();
+	return 0;
+}
+
+
+
+
+/*
+class Complex
+{
+public:
+	int real;
+	int imag;
+};
+
+void accept()
+{
+	Complex c;
+	cout<<"Enter real value";
+	cin>>c.real;
+	cout<<c.real;
+	cout<<"Enter imag value";
+	cin>>c.imag;
+	cout<<c.imag;
+}
+
+int main()
+{
+	Complex c; //object of Complex class
+	::accept();
+
+
+	return 0;
+}
+*/
+
+
+/*
+
+class Complex
+{
+private:
+	int real;
+	int imag;
+public:
+	void accept();
+	void disp();
+};
+
+void Complex::accept()
+{
+	cout<<"Enter real value";
+	cin>>this->real;
+	cout<<"Enter imag value";
+	cin>>this->imag;
+}
+
+void Complex::disp()
+{
+	cout<<"Real : "<<this->real;
+	cout<<"Imag : "<<this->imag;
+
+}
+
+int main()
+{
+	Complex c; //object of Complex class
+	c.accept();
+	c.disp();
+	return 0;
+}
+*/

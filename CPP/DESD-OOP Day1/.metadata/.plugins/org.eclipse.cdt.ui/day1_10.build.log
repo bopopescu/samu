@@ -1,0 +1,15 @@
+10:43:04 **** Incremental Build of configuration Debug for project day1_10 ****
+make all 
+Building file: ../src/day1_10.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day1_10.d" -MT"src/day1_10.o" -o "src/day1_10.o" "../src/day1_10.c"
+Finished building: ../src/day1_10.c
+ 
+Building target: day1_10
+Invoking: GCC C Linker
+gcc  -o "day1_10"  ./src/day1_10.o ./src/imple.o   
+Finished building target: day1_10
+ 
+
+10:43:04 Build Finished. 0 errors, 0 warnings. (took 120ms)
+

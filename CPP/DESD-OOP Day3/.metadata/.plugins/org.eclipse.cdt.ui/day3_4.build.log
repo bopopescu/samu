@@ -1,0 +1,15 @@
+09:01:37 **** Incremental Build of configuration Debug for project day3_4 ****
+make all 
+Building file: ../src/day3_4.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/day3_4.d" -MT"src/day3_4.o" -o "src/day3_4.o" "../src/day3_4.cpp"
+Finished building: ../src/day3_4.cpp
+ 
+Building target: day3_4
+Invoking: GCC C++ Linker
+g++  -o "day3_4"  ./src/day3_4.o   
+Finished building target: day3_4
+ 
+
+09:01:38 Build Finished. 0 errors, 0 warnings. (took 720ms)
+

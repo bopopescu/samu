@@ -1,0 +1,14 @@
+/*
+ * emp_impl.cpp
+ *
+ *  Created on: 24-Jan-2020
+ *      Author: sunbeam
+ */
+
+Employee::Employee()
+
+	Employee(int empid,int sal);
+	void accept();
+	void disp();
+
+

@@ -1,0 +1,23 @@
+//============================================================================
+// Name        : day1_7.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int num=10;
+
+namespace na
+{
+	int num=20;
+}
+
+int main()
+{
+	cout<<"Global Variable"<<::num;//:: scope resolution operator
+	return 0;
+}

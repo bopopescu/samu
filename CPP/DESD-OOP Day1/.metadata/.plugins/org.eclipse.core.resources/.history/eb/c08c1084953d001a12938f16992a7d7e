@@ -1,0 +1,47 @@
+//============================================================================
+// Name        : day1_6.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+//function overloading
+//same function name with different number of arguments
+void print();
+int print(int a);
+void print(int a,int b);
+void print(char ch);
+int main()
+{
+
+	int val;
+	print();
+	val=print(10);
+	cout<<"Value"<<val;
+	print(1,2);
+	print('A');
+	return 0;
+}
+
+void print()
+{
+	cout<<"inside no argument function"<<endl;
+}
+int print(int a)
+{
+	cout<<"inside return print function"<<endl;
+	return a;
+}
+void print(int a,int b)
+{
+	cout<<"Inside int int block"<<a<<b<<endl;
+}
+
+void print(char ch)
+{
+	cout<<"inside char block"<<ch;
+}

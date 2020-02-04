@@ -1,0 +1,54 @@
+//============================================================================
+// Name        : day3_12.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+template<class T>
+class Array // Parameterized type
+{
+private:
+	int size;
+	T *arr; //char *arr;
+	public:
+	Array( void ) : size( 0 ), arr( NULL )
+	{
+	}
+	Array( int size )
+	{
+	this->size = size;
+	this->arr = new T[ this->size ];
+	}
+	void acceptRecord( void )
+	{
+		cout<<"Enter Elements";
+		for(int i=0;i<3;i++)
+			cin>>arr[i];
+	}
+	void printRecord( void )
+	{
+
+		cout<<"\n  Elements are : ";
+		for(int i=0;i<3;i++)
+			cout<<arr[i];
+	}
+	~Array( void ){ }
+};
+
+int main(void)
+{
+Array<char> a1( 3 );
+a1.acceptRecord();
+a1.printRecord();
+Array<int> a2( 3 );
+a2.acceptRecord();
+a2.printRecord();
+
+
+
+return 0;
+}

@@ -1,0 +1,44 @@
+//============================================================================
+// Name        : day3_10.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Point
+{
+private:
+	int x;
+	int y;
+public:
+	Point()
+	{
+		this->x=0;
+		this->y=0;
+	}
+
+	Point(int x,int y)
+		{
+			this->x=x;
+			this->y=y;
+		}
+
+	//operator function
+
+	Point operator+(Point p)
+	{
+
+	}
+
+};
+
+
+int main()
+{
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

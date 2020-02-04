@@ -1,0 +1,46 @@
+//============================================================================
+// Name        : day1_2.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+struct Employee
+{
+	int empid;
+	int salary;
+
+	void accept()
+	{
+		printf("Enter Empid");
+		scanf("%d",&empid);
+
+		printf("Enter Emp Salary");
+		scanf("%d",&salary);
+
+	}
+
+	void disp(struct Employee *e)
+	{
+		printf("ID=%d SALARY=%d",e->empid,e->salary);
+	}
+
+};
+
+void accept(struct Employee *e); //function declaration
+void disp(struct Employee *e);
+
+
+int main(void)
+{
+	struct Employee emp; //declare the structure variable
+	accept(&emp);
+	disp(&emp);
+	return EXIT_SUCCESS;
+}
+
+

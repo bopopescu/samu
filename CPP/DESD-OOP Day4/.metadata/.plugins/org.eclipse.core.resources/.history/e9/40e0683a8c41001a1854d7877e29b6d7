@@ -1,0 +1,23 @@
+//============================================================================
+// Name        : day4_7.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+#include<cstring>
+using namespace std;
+
+class Person
+{
+private:
+	string name;
+	int id;
+};
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

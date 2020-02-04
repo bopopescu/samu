@@ -1,0 +1,75 @@
+//============================================================================
+// Name        : day2_2.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Complex
+{
+private:
+	int real;
+	int imag;
+};
+
+void accept()
+{
+	cout<<"Enter real value";
+	cin>>this->real;
+	cout<<"Enter imag value";
+	cin>>this->imag;
+}
+
+void disp()
+{
+	cout<<"Real : "<<this->real;
+	cout<<"Imag : "<<this->imag;
+
+}
+
+int main()
+{
+	Complex c; //object of Complex class
+	c.accept();
+	c.disp();
+	return 0;
+}
+
+
+
+class Complex
+{
+private:
+	int real;
+	int imag;
+public:
+	void accept();
+	void disp();
+};
+
+void Complex::accept()
+{
+	cout<<"Enter real value";
+	cin>>this->real;
+	cout<<"Enter imag value";
+	cin>>this->imag;
+}
+
+void Complex::disp()
+{
+	cout<<"Real : "<<this->real;
+	cout<<"Imag : "<<this->imag;
+
+}
+
+int main()
+{
+	Complex c; //object of Complex class
+	c.accept();
+	c.disp();
+	return 0;
+}

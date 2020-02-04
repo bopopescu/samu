@@ -1,0 +1,19 @@
+//============================================================================
+// Name        : day2_7.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+
+	int a=100;
+	int &r=a;
+
+	return 0;
+}

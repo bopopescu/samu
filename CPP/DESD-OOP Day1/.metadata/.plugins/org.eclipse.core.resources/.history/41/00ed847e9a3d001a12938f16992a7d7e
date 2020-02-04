@@ -1,0 +1,37 @@
+//============================================================================
+// Name        : day1_8.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Complex
+{
+private:
+	int real; //data members  of class Complex
+	int imag;
+public:
+	//member function of class Complex
+	void accept();
+	void disp();
+};
+
+void Complex :: accept()
+{
+
+}
+
+void accept()
+{
+
+}
+
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}

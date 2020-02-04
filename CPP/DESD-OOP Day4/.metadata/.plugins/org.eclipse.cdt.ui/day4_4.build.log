@@ -1,0 +1,6 @@
+09:45:45 **** Incremental Build of configuration Debug for project day4_4 ****
+make all 
+make: Nothing to be done for 'all'.
+
+09:45:46 Build Finished. 0 errors, 0 warnings. (took 316ms)
+

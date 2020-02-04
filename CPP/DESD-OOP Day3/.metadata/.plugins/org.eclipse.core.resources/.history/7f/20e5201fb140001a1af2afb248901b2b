@@ -1,0 +1,49 @@
+//============================================================================
+// Name        : day3_1.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main(void)
+{
+	int *ptrArr=new int[4];
+	//int *ptr = ( int *)::operator new[](4 * sizeof( int ) );
+
+	cout<<"Enter array elements";
+	for(int i=0;i<4;i++)
+	{
+		cin>>ptrArr[i];
+	}
+
+	cout<<"\n Elements are";
+	for(int i=0;i<4;i++)
+		{
+			cout<<"  "<<ptrArr[i];
+		}
+
+
+	return 0;
+}
+
+
+/*
+int main()
+{
+	//allocate a memory to single variable
+	int *ptr=new int;
+	//int *ptr = ( int* )::operator new( sizeof( int ) * 1 );
+	*ptr=100;
+	cout<<"ptr="<<*ptr;
+
+	//if we do not write delete ptr; and ptr=NULL;
+	//this will cause dangling pointer and memory leakage
+	delete ptr;
+	ptr=NULL;
+	return 0;
+}
+*/

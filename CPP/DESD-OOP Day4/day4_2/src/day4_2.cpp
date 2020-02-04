@@ -1,0 +1,113 @@
+//============================================================================
+// Name        : day4_2.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class A
+{
+public:
+	void sum(); //friend void sum();
+};
+class B
+{
+private:
+	int num1=30,num2=10;
+public:
+	friend class A;//friend class classname;
+};
+
+void A::sum()
+{
+	B bobj;
+	int result;
+	result=bobj.num1+bobj.num2;
+	cout<<result;
+}
+
+int main()
+{
+
+	A aobj;
+	aobj.sum();
+
+	return 0;
+}
+
+
+
+/*
+class A
+{
+private:
+	int num1;
+public:
+	A()
+	{
+		num1=40;
+	}
+	friend void sum();
+};
+
+class B
+{
+private:
+	int num2;
+public:
+	B()
+	{
+		num2=30;
+	}
+	friend void sum();
+};
+
+void sum()
+{
+	A aobj;
+	B bobj;
+	int result;
+	result=aobj.num1+bobj.num2;
+
+	cout<<"\n Addition = "<<result;
+}
+
+int main(void)
+{
+	sum();
+	return 0;
+}
+
+*/
+
+/*
+class Test
+{
+private:
+	int num1;
+public:
+	Test()
+	{
+		num1=100;
+	}
+	friend void disp();// friend function declaration
+};
+
+void disp() //friend function definition
+{
+	Test t;
+	cout<<t.num1;
+}
+
+int main()
+{
+	Test t;
+	disp(); //friend function call
+	return 0;
+}
+
+*/

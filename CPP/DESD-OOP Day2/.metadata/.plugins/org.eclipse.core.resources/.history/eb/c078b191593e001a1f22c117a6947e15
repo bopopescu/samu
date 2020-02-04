@@ -1,0 +1,45 @@
+//============================================================================
+// Name        : day2_3.cpp
+// Author      : 
+// Version     :
+// Copyright   : Your copyright notice
+// Description : Hello World in C++, Ansi-style
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+class Point
+{
+private:
+	int x;
+	int y;
+public:
+	//constructor
+	//parameterless constructor / default constructor
+	Point()
+	{
+		cout<<"Inside Parameterless Constructor";
+		x=10;
+		y=20;
+	}
+	Point(int val)
+	{
+		cout<<"\n Inside Parameterized Constructor(one arg)";
+		this->x=val;
+		this->y=val;
+	}
+	Point(int x,int y)
+	{
+		cout<<"\n Inside Parameterized Constructor(two arg)";
+		this->x=x;
+		this->y=y;
+	}
+
+};
+
+int main()
+{
+
+	return 0;
+}
