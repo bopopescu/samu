@@ -1,0 +1,18 @@
+#include<reg51.h>
+sbit led=p1^0;
+void delay(unsigned char x)
+{
+int i,j;
+for(i=0;i<x;i++)
+for(j=0;j<1275;j++);
+}
+void main()
+{
+while(1)
+{
+led=0;
+delay(100);
+led=1;
+delay(100);
+}
+}

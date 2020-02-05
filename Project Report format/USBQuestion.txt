@@ -1,0 +1,17 @@
+USB Theory Questions-
+1. Explain USB protocol.
+2. Explain characteristics/ features of USB.
+3. Explain types of USB transfes and differentiate them.
+4. What is endpoint ? Explain types of endpoint.
+5. How pipes are used for data transfer in USB ? and Explain types of pipes used.
+6. What is descriptor ? How many types of descriptors are there ? and explain the hierarchy of them.
+7. Which all information contains these descriptors?
+8. What is your CDAC project ? and explain it in brief.
+9. Explain block diagram of your project?
+10. Which board you have used in your project? Tell me about the features of that board.
+11. Why you have selected this project and board?
+12. What is USB device enumeration? Explain steps for USB device enumeration.
+13. What is differance between transactions and packets?
+14. What happened when USB device is connected to the host machine?
+15. What is URB ? 
+16. How data is transfered in USB driver?

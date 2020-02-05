@@ -1,0 +1,1 @@
+The objective of the system is to design a system  that will weigh an object as well as stores the weighed data like weight,date,time.To store data SD card is used and that data stored in excel format.So,data can be fetched whenever we required.In many places like shops,malls,airports,industries,courier office and scientific laboratories use this weighing machines.

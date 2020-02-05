@@ -1,0 +1,13 @@
+The system allows user to send commands from their cell phones to control various home appliances such as bulb,fan etc. Commands are sent via cell phone's numeric code dialling capability. The system is equipped with DTMF decoder and relay module for controlling any appliance.The program code is fed onto the microcontroller.The main advantage of the system is its vast range.We can track the status and control our home appliance from anywhere.
+
+
+The system allows user to send commands from their cell phones to control various home appliances such as bulb,fan etc. Commands are sent via cell phone's numeric code dialling capability.The program code is fed onto the microcontroller.The main advantage of the system is its vast range.We can track the status and control our home appliance from anywhere.
+
+
+
+DTMF stands  for  Dual  Tone  Multi  Frequency.The  system  allows  users  to  send  commands  from  their  cell  phones  to  control various home appliances such as bulb, fan etc.Commands are sent via a cell phone’s numeric code dialling capability.The system is equipped with DTMF decoder and relay module for controlling any appliance.The program code is fed onto the  micro-controller.The  main advantage  of the  circuit is its  vast range. 
+We  can track the  status and control our home appliances from anywhere. 
+
+
+
+live:.cid.ba2577c4d335d4f7

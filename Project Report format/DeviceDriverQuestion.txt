@@ -1,0 +1,28 @@
+Device Driver Questions- 
+1. Which all API's you have used in your driver?
+2. Which all functionalities you have implemented in your driver? why?
+3. Which all structures you have used in your driver?
+4. What is probing?
+5. how you have installed/ inserted your driver?
+6. Is there any other way to insert your driver ? if any then what is differance between them?
+7. Write code for driver?
+8. How you have tested your driver?
+9. What happened internally when you insert/remove your driver?
+10. What do you mean by kernel module ? and how it is implemented?
+11. Which all different methods you have implemented?
+12. Which function/ API is used to register the driver and to unregister the driver?
+13. What is use of init_module() and exit_module()?
+14. What is ioctl? and where it is used?
+--------------------------------------------------------------------------------
+Serial Port/PCI driver Questions-
+1. Which hardware chip is used for serial port?
+2. How interrupt is handled in device driver?
+3. What is PCI device/ bus enumeration?
+4. What is top/bottom half?
+5. In how many ways we can implement bottom half?
+6. Which mechanisum you have used for synchronization? explain in brief.
+7. How device is created in your project?
+8. explain major and minor numbers? and how they are allocated?
+9. What is your CDAC project ? and explain it in brief.
+10. Explain block diagram of your project?
+11. What do you mean by io ports?

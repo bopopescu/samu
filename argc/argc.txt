@@ -1,0 +1,1 @@
+Automatic Railway Gate Control system is implemented to prevent accidents of traction system at railway crossing levels,which help in automatically opening and closing the railway gate upon detecting arrival or departure of the train.It avoids man power,manual errors and thus provides ultimate safety to everyone.
